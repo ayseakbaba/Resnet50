@@ -30,7 +30,7 @@ loss_fn = torch.nn.CrossEntropyLoss()
 Modelin eğitimi sırasında elde edilen kayıp (loss) ve doğruluk (accuracy) değerleri TensorBoard ile görselleştirilmiştir. Aşağıda bir örnek görüntü yer almaktadır:
 
 
-![TensorBoard Çıktısı](![2](https://github.com/user-attachments/assets/58c7c239-4a61-4683-a4ac-87ef6e9f3c44))
+![TensorBoard Çıktısı](![image](https://github.com/user-attachments/assets/58c7c239-4a61-4683-a4ac-87ef6e9f3c44))
 
 
 ---
