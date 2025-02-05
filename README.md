@@ -81,9 +81,9 @@ Hibrit modelin test sonuçları:
 ## 🔍 Grad-CAM Görselleştirmesi
 Grad-CAM (Gradient-weighted Class Activation Mapping) yöntemi, modelin karar verirken hangi alanlara odaklandığını görselleştirmek için kullanılmıştır.
 
-### Örnek Çıktı:![WhatsApp Image 2025-02-05 at 14 33 46_c3bceaac](https://github.com/user-attachments/assets/ccbd2d2d-3304-4267-a945-2fa7bd0613e5)
+### Örnek Çıktı:
 
-![Grad-CAM Çıktısı]()
+![Grad-CAM Çıktısı](![WhatsApp Image 2025-02-05 at 14 33 46_c3bceaac](https://github.com/user-attachments/assets/ccbd2d2d-3304-4267-a945-2fa7bd0613e5))
 
 ---
 
